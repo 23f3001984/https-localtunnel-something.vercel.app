@@ -13,5 +13,5 @@ def get_email():
         "email": "23f3001984@ds.study.iitm.ac.in"
     })
 
-# Vercel handler
+# This line is critical for Vercel
 handler = app
